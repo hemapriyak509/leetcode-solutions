@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |

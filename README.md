@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0086-partition-list) |
 ## Dynamic Programming
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->

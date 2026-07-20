@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |

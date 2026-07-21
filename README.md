@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion

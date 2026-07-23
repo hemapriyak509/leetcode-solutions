@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |

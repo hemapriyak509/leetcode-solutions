@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0125-valid-palindrome) |

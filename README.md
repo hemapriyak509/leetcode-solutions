@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1323-maximum-69-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |

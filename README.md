@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |

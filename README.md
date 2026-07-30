@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/hemapriyak509/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hemapriyak509/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

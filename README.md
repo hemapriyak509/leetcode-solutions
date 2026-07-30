@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0392-is-subsequence) |

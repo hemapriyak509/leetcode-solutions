@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1009-complement-of-base-10-integer](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Stack
 |  |
 | ------- |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0086-partition-list) |
+| [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->

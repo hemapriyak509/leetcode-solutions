@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |

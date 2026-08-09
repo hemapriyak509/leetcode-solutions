@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1603-design-parking-system](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0566-reshape-the-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |

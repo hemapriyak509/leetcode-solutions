@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0806-number-of-lines-to-write-string](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0806-number-of-lines-to-write-string](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1189-maximum-number-of-balloons](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |

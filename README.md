@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 <!---LeetCode Topics End-->

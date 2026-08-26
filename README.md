@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0804-unique-morse-code-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0804-unique-morse-code-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0804-unique-morse-code-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |

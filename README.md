@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

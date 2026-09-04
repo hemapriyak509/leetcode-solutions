@@ -349,4 +349,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0610-triangle-judgement) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->

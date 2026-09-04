@@ -343,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->

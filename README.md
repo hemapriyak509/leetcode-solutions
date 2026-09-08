@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/hemapriyak509/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemapriyak509/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
